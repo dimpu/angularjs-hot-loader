@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-hot-loader",
+  "version": "0.0.1",
+  "description": "Angular Hot module replacement",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dimpu Aravind Buddha",
+  "license": "ISC",
+  "dependencies": {
+    "source-map": "^0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dimpu@github.com/dimpu/angularjs-hot-loader.git"
+  },
+  "keywords": [
+    "AngularJs",
+    "webpack",
+    "HMR",
+    "hot repalcment"
+  ],
+  "bugs": {
+    "url": "https://github.com/dimpu/angularjs-hot-loader/issues"
+  },
+  "homepage": "https://github.com/dimpu/angularjs-hot-loader#readme"
+}
