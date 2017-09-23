@@ -1,5 +1,5 @@
 module.exports = angular
-  .module('Angular-HMR', [])
+  .module('angularjs-hot-loader', [])
   .config(function() {
 
     console.log('[AHMR] Angular HMR module config phase');

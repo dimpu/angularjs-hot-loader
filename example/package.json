@@ -1,0 +1,29 @@
+{
+  "name": "angualrjs-hot-replacement-example",
+  "version": "1.0.0",
+  "description": "AngualrJS > 1.5 hot module replacment for webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [
+    "anguarjs",
+    "hot",
+    "reload",
+    "replacement"
+  ],
+  "author": "Dimpu Aravind Buddha",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.6",
+    "angular": "^1.6.6"
+  }
+}
